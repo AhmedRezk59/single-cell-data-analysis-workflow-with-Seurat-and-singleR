@@ -3,7 +3,9 @@
 This is a simple workflow to integrate single cell RNA-seq data and annotating it using singleR
 
 #### The paper used
-[https://cancerci.biomedcentral.com/articles/10.1186/s12935-021-02252-9](https://cancerci.biomedcentral.com/articles/10.1186/s12935-021-02252-9)
+[The link](https://cancerci.biomedcentral.com/articles/10.1186/s12935-021-02252-9)
 
+### TSNE plot of the data
+![TSNE plot](figs/tsne.png)
 
 
